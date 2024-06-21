@@ -1,15 +1,16 @@
 # ***Denis Kuznetsov***
 
 ![My photo](./image/photo.png)
+
 ---
 ## *Frontend-developer*
 ### Contacts:
-|   type   |                                  link                                  |
-|:--------:|:----------------------------------------------------------------------:|
-|  email   |         [denispr89@gmail.com](denispr89@gmail.com "My email")          |
-| telegram |                     <https://t.me/Need_more_ducks>                     |
-| discord  |                           deniskuznetsov0551                           |
-|   git    |                     https://github.com/DenisPr-SPb                     |
+| type | link |
+| :--------: | :--------: | 
+| email | denispr89@gmail.com |
+| telegram | <https://t.me/Need_more_ducks> |
+| discord | deniskuznetsov0551 |
+| git | [My GitHub](https://github.com/DenisPr-SPb "GIT Link" ) |
 
 ### Work practice and studying goal:
 I'm already working at the moment. \
