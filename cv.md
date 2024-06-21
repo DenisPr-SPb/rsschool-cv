@@ -72,6 +72,6 @@ I go in for sports, a fan of running and Muay Thai. Every morning exercise and m
 I like to read and listen to books, classics, science-pop, novels... \
 My top: Harry Potter, The Master and Margarita, Dovlatov's stories, The Razor's Edge, The Seagull Jonathan Livingston. \
 I study and learn new things. \
-I love fixing something that is broken, be it a children's toy or something technical. \
+I love fixing something that is broken, be it a children's toy or something technical.
 
 ***
