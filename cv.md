@@ -6,7 +6,7 @@
 ## *Frontend-developer*
 ### Contacts:
 | type | link |
-| :--------: | :--------: | 
+| -------- | -------- | 
 | email | denispr89@gmail.com |
 | telegram | <https://t.me/Need_more_ducks> |
 | discord | deniskuznetsov0551 |
