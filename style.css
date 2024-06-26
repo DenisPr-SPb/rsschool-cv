@@ -51,8 +51,41 @@ header {
 main {
     flex: 1 1 auto;
 }
+section {
+    width: 90%;
+    margin: 0 auto;
+}
+.section_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section_header {
+    align-items: center;
+    height: 30vh;
+}
+.title_img_container{
+    background-color: #444;
+    border-radius: 50%;
+}
+.title_img {
+    width: 150px;
+    height: 150px;
+}
+
+.title_text_container {
+    width: 50%;
+}
+
+.below_text_line {
+    height: 2px;
+    width: 80%;
+    background-color: #444;
+    margin: 1em 0;
+}
 
 footer {
     flex: 0 0 auto;
 }
+
 
