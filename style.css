@@ -52,8 +52,6 @@ main {
     flex: 1 1 auto;
 }
 section {
-    width: 90%;
-    margin: 0 auto;
 }
 .section_wrapper {
     display: flex;
@@ -86,6 +84,46 @@ section {
 
 .section_body {
     background-color: lightblue;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.body_column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+._container {
+    height: 250px;
+}
+
+.contacts_container {
+
+}
+
+.html_div {}
+
+.head_div {
+    margin-left: 1em;
+}
+
+.head_div_title {
+    margin-left: 2em;
+}
+
+.body_div {
+    margin-left: 1em;
+}
+
+.script_div {
+    margin-left: 2em;
+}
+
+.script_div_code {
+    margin-left: 3em;
 }
 
 footer {
