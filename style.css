@@ -140,6 +140,40 @@ section {
 
 footer {
     flex: 0 0 auto;
+    display: flex;
+    justify-content: space-around;
+    height: 150px;
+}
+
+._center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.info_container div:last-child {
+    margin-top: 10px;
+}
+
+.svg_wrapper {
+    margin-left: 10px;
+    width: 80px;
+}
+
+.rs_container {
+    display: flex;
+    justify-content: space-around;
+    vertical-align: middle;
+}
+
+._link {
+    padding: 10px;
+}
+
+._link:hover {
+    background-color: lightblue;
+    border-radius: 5px;
 }
 
 
